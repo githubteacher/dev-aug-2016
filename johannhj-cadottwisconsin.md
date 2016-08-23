@@ -6,7 +6,7 @@
 - Leinenkugel's brewery nearby
 
 ###Interesting Facts
-- 45th parallel "Half-way between the Equator & North Pole"
+- On the 45th parallel - "Half-way between the Equator & North Pole"
 
 ###Short Day Trips
 - Yellow River
