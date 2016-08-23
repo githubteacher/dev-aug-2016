@@ -10,5 +10,7 @@
 -Ohio Street Beach 
 -Lincoln Square
 
+##Places to :beer:
+
 ##Places to Avoid
 -The redline after midnight.
