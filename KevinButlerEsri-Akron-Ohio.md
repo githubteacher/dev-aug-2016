@@ -8,6 +8,7 @@
 ###Places to go
 - University of Akron
 - Sand Run Park
+- Wine bar:wine:
 
 ###Places to avoid
 - South Akron
