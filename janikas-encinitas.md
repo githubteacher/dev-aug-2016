@@ -12,6 +12,12 @@
 * Robertos
 * Juanitas
 * Cardiff Market
+* Peace Pies Raw Food Cafe [Vegan]
+* 
+
+###Beer
+* Encinitas Ale House
+* 
 
 ###Places to Go
 * Moonlight Beach
