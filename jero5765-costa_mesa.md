@@ -2,10 +2,15 @@
 This is the jero5765 costa_mesa file
 <hr>
 
-#costa_mesa
+#Costa Mesa, CA
 
-###Maggiano
+###Places to Eat
+- Maggiano
+- Mortons
 
-###OC Fair
 
-###Downtown Santa Ana
+###Places to Go
+- OC Fair
+
+###Places to Avoid
+- Downtown Santa Ana
