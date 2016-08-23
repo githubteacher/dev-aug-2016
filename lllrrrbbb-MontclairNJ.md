@@ -8,4 +8,6 @@
 - Edgemont Park
 
 ###Places to avoid
-- No need 
+
+
+### Season to visit area
