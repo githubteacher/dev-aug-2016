@@ -2,10 +2,12 @@
 
 ##Places to Eat
 -Portillos
+-Spoon (Thai Food)
+-Rolls and Bowls
 
 ##Places to Go
--Sear Tower
--The Lake
+-Sears Tower
+-Ohio Street Beach 
 -Lincoln Square
 
 ##Places to Avoid
