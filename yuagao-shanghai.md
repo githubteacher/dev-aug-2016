@@ -6,6 +6,7 @@
 
 ###Places to Go
 - Lujiazui
+- Huai Hai Road
 
 ###Places to Avoid
 - People Square
