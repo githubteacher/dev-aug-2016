@@ -6,7 +6,7 @@
 
 ###Places to Go
 - Balboa Park
-- Beach
+- Moonlight Beach
 
 ###Places to Avoid
 - Sea World
