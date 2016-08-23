@@ -7,6 +7,7 @@ I'm from Nepal!
 
 ##Places to Go
 - Durbar square
+- Nagarkot hill station
 
 ##Places to Avoid
 - Zoo
