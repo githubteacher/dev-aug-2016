@@ -11,3 +11,4 @@ Temples
 Malls
 
 ### Places to avoid
+Movie theaters on first days :)
