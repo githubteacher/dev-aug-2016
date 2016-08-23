@@ -1,9 +1,9 @@
 # Chicago, IL
 
 ##Places to Eat
--Portillos
+-Portillos (Hot Dogs)
 -Spoon (Thai Food)
--Rolls and Bowls
+-Rolls and Bowls (Sushi)
 
 ##Places to Go
 -Sears Tower
