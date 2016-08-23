@@ -5,6 +5,10 @@
 - Sublime
 - Slater's 50/50
 
+###Places to :beer:
+- Rip Current
+- Stone
+
 ###Places to Go
 - Coronado Island
 - Balboa Park
