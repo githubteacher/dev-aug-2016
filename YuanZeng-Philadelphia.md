@@ -7,4 +7,4 @@
 ###Places to Go
 - Eastern State Penitentiary
 
-###places to Avoid
+###Places to Avoid
