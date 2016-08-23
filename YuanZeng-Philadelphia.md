@@ -7,4 +7,5 @@
 ###Places to Go
 - Eastern State Penitentiary
 
-###Places to Avoid
+###Places to Snowboarding
+- Blue Mountain Resort
